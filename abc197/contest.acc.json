@@ -19,13 +19,19 @@
       "id": "abc197_b",
       "label": "B",
       "title": "Visibility",
-      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_b"
+      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_b",
+      "directory": {
+        "path": "b"
+      }
     },
     {
       "id": "abc197_c",
       "label": "C",
       "title": "ORXOR",
-      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_c"
+      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_c",
+      "directory": {
+        "path": "c"
+      }
     },
     {
       "id": "abc197_d",
