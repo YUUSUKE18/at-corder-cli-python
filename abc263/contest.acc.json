@@ -19,7 +19,10 @@
       "id": "abc263_b",
       "label": "B",
       "title": "Ancestor",
-      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_b"
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_b",
+      "directory": {
+        "path": "b"
+      }
     },
     {
       "id": "abc263_c",
