@@ -19,7 +19,10 @@
       "id": "abc205_b",
       "label": "B",
       "title": "Permutation Check",
-      "url": "https://atcoder.jp/contests/abc205/tasks/abc205_b"
+      "url": "https://atcoder.jp/contests/abc205/tasks/abc205_b",
+      "directory": {
+        "path": "b"
+      }
     },
     {
       "id": "abc205_c",
