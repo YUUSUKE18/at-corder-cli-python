@@ -19,7 +19,10 @@
       "id": "abc206_b",
       "label": "B",
       "title": "Savings",
-      "url": "https://atcoder.jp/contests/abc206/tasks/abc206_b"
+      "url": "https://atcoder.jp/contests/abc206/tasks/abc206_b",
+      "directory": {
+        "path": "b"
+      }
     },
     {
       "id": "abc206_c",
